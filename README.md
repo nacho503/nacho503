@@ -5,7 +5,6 @@ I'm Ignacio,💻 Full-Stack Developer 💻.
 
 
 
-But happy to expand 
 
 <!--
 **nacho503/nacho503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
