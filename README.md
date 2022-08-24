@@ -8,7 +8,7 @@
 
 ### Some tools & frameworks:
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,postgres,react,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,postgres,react,figma)](https://skills.thijs.gg)
 
 <!--
 **nacho503/nacho503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
