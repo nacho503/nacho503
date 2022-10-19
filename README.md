@@ -10,6 +10,9 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,postgres,react,figma)](https://skills.thijs.gg)
 
+### Codewars
+
+![Codewars badge](https://www.codewars.com/users/nacho503/badges "Title")
 <!--
 **nacho503/nacho503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
