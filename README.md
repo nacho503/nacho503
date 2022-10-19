@@ -12,7 +12,7 @@
 
 ### Codewars:
 
-![Codewars badge](https://www.codewars.com/users/nacho503/badges)
+![Codewars badge](https://www.codewars.com/users/nacho503/badges/large)
 <!--
 **nacho503/nacho503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
